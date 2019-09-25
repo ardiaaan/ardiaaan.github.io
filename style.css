@@ -1,0 +1,62 @@
+body{
+    font-family: 'Hind Madurai', sans-serif;
+    color: grey;
+}
+.navbar-brand{
+    font-weight: bolder;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+.navName {
+    font-size: x-small;
+    letter-spacing: 2px;
+    font-weight: 100;
+    text-align: center;
+}
+.navbar {
+    border-bottom: 1px solid lightgrey;
+
+}
+.nav-item {
+    margin-right: 30px;
+}
+.text-center {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.header-text {
+    margin-top: 40px;
+    margin-bottom: 40px;    
+    font-size : 60px;
+}
+.header-text-extra {
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 6px;
+}
+.header-img {
+    margin-bottom: 50px;
+}
+.img {
+    width: 100%;
+    height: 65%;
+    opacity: 0.8;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.letter {
+    letter-spacing: 6px;
+}
+.image {
+    width: 100%;
+    height: 65%;
+} 
+a {
+    color: grey;
+}
+a:hover {
+    color: darkgrey;
+    text-decoration: none;
+}
